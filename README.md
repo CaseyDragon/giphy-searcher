@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Giphy Searcher
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with react for a follow along tutorial from General Asssemble and uses an API from giphy.com
 
 ## Available Scripts
 
